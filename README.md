@@ -3,6 +3,7 @@
 
 1.Tampilan Selection Widget dalam satu aplikasi
   (Spinner, Auto Complete Text, List View)
+  
 ![](images/Selection%20Widget%20(Spinner%2C%20AutoComplete%2C%20ListView).jpeg)
 
 
@@ -31,6 +32,6 @@
 
 
 
-6.Toast pada List View
+6. Toast pada List View
 
 ![](images/Toast%20List%20View.jpeg)
